@@ -149,5 +149,5 @@ jobs:
           artifacts: ipaDown_split\*
 
           allowUpdates: true
-          removeArtifacts: true
+          removeArtifacts: false
           replacesArtifacts: true
